@@ -68,30 +68,6 @@ const Hero = () => {
             </div>
           </motion.div>
         </div>
-
-        <motion.div 
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.4 }}
-          className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-24 pb-12 text-center text-white"
-        >
-          <div>
-            <p className="text-3xl font-bold text-redec-yellow mb-2">500+</p>
-            <p className="text-gray-400">Projects Completed</p>
-          </div>
-          <div>
-            <p className="text-3xl font-bold text-redec-blue mb-2">20+</p>
-            <p className="text-gray-400">Years Experience</p>
-          </div>
-          <div>
-            <p className="text-3xl font-bold text-redec-red mb-2">50+</p>
-            <p className="text-gray-400">Expert Engineers</p>
-          </div>
-          <div>
-            <p className="text-3xl font-bold text-white mb-2">15+</p>
-            <p className="text-gray-400">Countries Served</p>
-          </div>
-        </motion.div>
       </div>
     </section>
   );
