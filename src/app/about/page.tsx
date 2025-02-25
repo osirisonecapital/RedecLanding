@@ -57,12 +57,13 @@ export default function AboutPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="relative h-[500px] w-full rounded-lg overflow-hidden mb-8"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&q=80&w=1000" 
-                alt="REDEC Engineering Team"
+                src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?auto=format&fit=crop&q=80&w=1000"
+                alt="REDEC Engineering Team" 
                 fill
+                priority
                 unoptimized
                 style={{ objectFit: 'cover' }}
               />
