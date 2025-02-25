@@ -28,7 +28,7 @@ export default function Home() {
               className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/about/team-placeholder.jpg" 
+                src="https://placehold.co/800x600/e0e0e0/555555?text=REDEC+Team" 
                 alt="REDEC Team"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -128,7 +128,7 @@ export default function Home() {
                   Dredging
                 </div>
                 <Image 
-                  src="/images/projects/placeholder1.jpg" 
+                  src="https://placehold.co/800x600/ffc342/000000?text=Dredging+Project" 
                   alt="Dredging Projects"
                   fill
                   style={{ objectFit: 'cover' }}
@@ -162,7 +162,7 @@ export default function Home() {
                   Offshore
                 </div>
                 <Image 
-                  src="/images/projects/placeholder2.jpg" 
+                  src="https://placehold.co/800x600/2a6bc2/FFFFFF?text=Offshore+Project" 
                   alt="Offshore Projects"
                   fill
                   style={{ objectFit: 'cover' }}
@@ -196,7 +196,7 @@ export default function Home() {
                   Yachts
                 </div>
                 <Image 
-                  src="/images/projects/placeholder3.jpg" 
+                  src="https://placehold.co/800x600/f55753/FFFFFF?text=Yacht+Project" 
                   alt="Yacht Projects"
                   fill
                   style={{ objectFit: 'cover' }}
@@ -230,7 +230,7 @@ export default function Home() {
                   Cranes
                 </div>
                 <Image 
-                  src="/images/projects/placeholder4.jpg" 
+                  src="https://placehold.co/800x600/151515/FFFFFF?text=Crane+Project" 
                   alt="Crane Projects"
                   fill
                   style={{ objectFit: 'cover' }}

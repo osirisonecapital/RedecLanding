@@ -13,9 +13,9 @@ const Header = () => {
       <div className="container-custom flex items-center justify-between py-4">
         {/* Logo */}
         <Link href="/" className="flex items-center">
-          <div className="relative h-12 w-48">
+          <div className="relative h-10 w-56">
             <Image 
-              src="/images/LogoRedec.png" 
+              src="/images/WideLogo.png" 
               alt="REDEC Logo" 
               fill
               style={{ objectFit: 'contain' }}

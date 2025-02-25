@@ -153,7 +153,7 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/services/power.svg" 
+                src="https://placehold.co/800x500/2a6bc2/FFFFFF?text=Power+Engineering" 
                 alt="Power Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -175,7 +175,7 @@ export default function ServicesPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/services/installation.svg" 
+                src="https://placehold.co/800x500/1e465a/FFFFFF?text=Installation+Engineering" 
                 alt="Installation Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -294,7 +294,7 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/services/outfitting.svg" 
+                src="https://placehold.co/800x500/db4437/FFFFFF?text=Outfitting+Engineering" 
                 alt="Outfitting Engineering"
                 fill
                 style={{ objectFit: 'cover' }}

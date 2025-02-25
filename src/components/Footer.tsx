@@ -11,9 +11,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2 lg:col-span-1">
-            <div className="relative h-12 w-48 mb-4">
+            <div className="relative h-10 w-56 mb-4">
               <Image 
-                src="/images/LogoRedec.png" 
+                src="/images/WideLogo.png" 
                 alt="REDEC Logo" 
                 fill
                 style={{ objectFit: 'contain' }}
