@@ -10,12 +10,12 @@ const Header = () => {
 
   return (
     <header className="fixed w-full bg-white/90 backdrop-blur-sm z-50 shadow-sm">
-      <div className="container-custom flex items-center justify-between py-4">
-        {/* Logo */}
+      <div className="container-custom flex items-center justify-between py-3">
+        {/* Logo - Updated with new logo file and larger dimensions */}
         <Link href="/" className="flex items-center">
-          <div className="relative h-10 w-56">
+          <div className="relative h-16 w-80">
             <Image 
-              src="/images/WideLogo.png" 
+              src="/images/logoredec.png" 
               alt="REDEC Logo" 
               fill
               style={{ objectFit: 'contain' }}
