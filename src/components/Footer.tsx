@@ -12,9 +12,8 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2 lg:col-span-1">
             <div className="relative h-12 w-48 mb-4">
-              {/* Replace with actual logo path once available */}
               <Image 
-                src="/images/redec-logo.png" 
+                src="/images/LogoRedec.png" 
                 alt="REDEC Logo" 
                 fill
                 style={{ objectFit: 'contain' }}

@@ -60,7 +60,7 @@ export default function AboutPage() {
               className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/about/team-placeholder.jpg" 
+                src="/images/about/team.svg" 
                 alt="REDEC Team"
                 fill
                 style={{ objectFit: 'cover' }}

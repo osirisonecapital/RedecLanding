@@ -153,7 +153,7 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/services/power-engineering.jpg" 
+                src="/images/services/power.svg" 
                 alt="Power Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -175,7 +175,7 @@ export default function ServicesPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/services/installation-engineering.jpg" 
+                src="/images/services/installation.svg" 
                 alt="Installation Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -294,7 +294,7 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/services/outfitting-engineering.jpg" 
+                src="/images/services/outfitting.svg" 
                 alt="Outfitting Engineering"
                 fill
                 style={{ objectFit: 'cover' }}

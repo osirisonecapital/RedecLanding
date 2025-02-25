@@ -14,9 +14,8 @@ const Header = () => {
         {/* Logo */}
         <Link href="/" className="flex items-center">
           <div className="relative h-12 w-48">
-            {/* Replace with actual logo path once available */}
             <Image 
-              src="/images/redec-logo.png" 
+              src="/images/LogoRedec.png" 
               alt="REDEC Logo" 
               fill
               style={{ objectFit: 'contain' }}
