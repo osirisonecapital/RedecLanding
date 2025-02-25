@@ -153,7 +153,7 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://placehold.co/800x500/2a6bc2/FFFFFF?text=Power+Engineering" 
+                src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1000&auto=format&fit=crop" 
                 alt="Power Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -175,7 +175,7 @@ export default function ServicesPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://placehold.co/800x500/1e465a/FFFFFF?text=Installation+Engineering" 
+                src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=1000&auto=format&fit=crop" 
                 alt="Installation Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -294,7 +294,7 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://placehold.co/800x500/db4437/FFFFFF?text=Outfitting+Engineering" 
+                src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=1000&auto=format&fit=crop" 
                 alt="Outfitting Engineering"
                 fill
                 style={{ objectFit: 'cover' }}

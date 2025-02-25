@@ -60,7 +60,7 @@ export default function AboutPage() {
               className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://placehold.co/800x600/e0e0e0/555555?text=REDEC+Team" 
+                src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=1000&auto=format&fit=crop" 
                 alt="REDEC Team"
                 fill
                 style={{ objectFit: 'cover' }}

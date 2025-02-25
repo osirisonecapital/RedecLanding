@@ -156,7 +156,7 @@ export default function MarketsPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/projects/placeholder1.jpg" 
+                src="https://images.unsplash.com/photo-1574871935918-4161576773ea?q=80&w=1000&auto=format&fit=crop"
                 alt="Dredging Vessel"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -184,7 +184,7 @@ export default function MarketsPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/projects/placeholder2.jpg" 
+                src="https://images.unsplash.com/photo-1525179024081-d462bc0bd9ea?q=80&w=1000&auto=format&fit=crop"
                 alt="Offshore Vessel"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -311,7 +311,7 @@ export default function MarketsPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/projects/placeholder3.jpg" 
+                src="https://images.unsplash.com/photo-1540946485063-a40da27545f8?q=80&w=1000&auto=format&fit=crop"
                 alt="Luxury Yacht"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -339,7 +339,7 @@ export default function MarketsPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="/images/projects/placeholder4.jpg" 
+                src="https://images.unsplash.com/photo-1599076449287-aa0052d60be6?q=80&w=1000&auto=format&fit=crop"
                 alt="Maritime Crane"
                 fill
                 style={{ objectFit: 'cover' }}

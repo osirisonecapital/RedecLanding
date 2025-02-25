@@ -28,10 +28,10 @@ export default function Home() {
               className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://placehold.co/800x600/e0e0e0/555555?text=REDEC+Team" 
+                src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=1000&auto=format&fit=crop"
                 alt="REDEC Team"
                 fill
-                style={{ objectFit: 'cover' }}
+                className="object-cover"
               />
             </motion.div>
             
@@ -128,10 +128,10 @@ export default function Home() {
                   Dredging
                 </div>
                 <Image 
-                  src="https://placehold.co/800x600/ffc342/000000?text=Dredging+Project" 
-                  alt="Dredging Projects"
+                  src="https://images.unsplash.com/photo-1574871935918-4161576773ea?q=80&w=1000&auto=format&fit=crop"
+                  alt="Dredging Project" 
                   fill
-                  style={{ objectFit: 'cover' }}
+                  className="object-cover"
                 />
               </div>
               <div className="p-6">
@@ -162,10 +162,10 @@ export default function Home() {
                   Offshore
                 </div>
                 <Image 
-                  src="https://placehold.co/800x600/2a6bc2/FFFFFF?text=Offshore+Project" 
-                  alt="Offshore Projects"
+                  src="https://images.unsplash.com/photo-1525179024081-d462bc0bd9ea?q=80&w=1000&auto=format&fit=crop"
+                  alt="Offshore Project" 
                   fill
-                  style={{ objectFit: 'cover' }}
+                  className="object-cover"
                 />
               </div>
               <div className="p-6">
@@ -196,10 +196,10 @@ export default function Home() {
                   Yachts
                 </div>
                 <Image 
-                  src="https://placehold.co/800x600/f55753/FFFFFF?text=Yacht+Project" 
-                  alt="Yacht Projects"
+                  src="https://images.unsplash.com/photo-1540946485063-a40da27545f8?q=80&w=1000&auto=format&fit=crop"
+                  alt="Yacht Project" 
                   fill
-                  style={{ objectFit: 'cover' }}
+                  className="object-cover"
                 />
               </div>
               <div className="p-6">
@@ -230,10 +230,10 @@ export default function Home() {
                   Cranes
                 </div>
                 <Image 
-                  src="https://placehold.co/800x600/151515/FFFFFF?text=Crane+Project" 
-                  alt="Crane Projects"
+                  src="https://images.unsplash.com/photo-1599076449287-aa0052d60be6?q=80&w=1000&auto=format&fit=crop"
+                  alt="Crane Project" 
                   fill
-                  style={{ objectFit: 'cover' }}
+                  className="object-cover"
                 />
               </div>
               <div className="p-6">
