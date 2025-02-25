@@ -153,13 +153,14 @@ export default function MarketsPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1574871935918-4161576773ea?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1518486804561-5842ee790882?auto=format&fit=crop&q=80&w=1000"
                 alt="Dredging Vessel"
                 fill
                 style={{ objectFit: 'cover' }}
+                className="group-hover:scale-105 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
               <div className="absolute bottom-0 left-0 p-6">
@@ -181,13 +182,14 @@ export default function MarketsPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1525179024081-d462bc0bd9ea?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1520645521318-f2b67ce6de4b?auto=format&fit=crop&q=80&w=1000"
                 alt="Offshore Vessel"
                 fill
                 style={{ objectFit: 'cover' }}
+                className="group-hover:scale-105 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
               <div className="absolute bottom-0 left-0 p-6">
@@ -308,13 +310,14 @@ export default function MarketsPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1540946485063-a40da27545f8?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Luxury Yacht"
                 fill
                 style={{ objectFit: 'cover' }}
+                className="group-hover:scale-105 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
               <div className="absolute bottom-0 left-0 p-6">
@@ -336,13 +339,14 @@ export default function MarketsPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1599076449287-aa0052d60be6?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&q=80&w=1000"
                 alt="Maritime Crane"
                 fill
                 style={{ objectFit: 'cover' }}
+                className="group-hover:scale-105 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
               <div className="absolute bottom-0 left-0 p-6">

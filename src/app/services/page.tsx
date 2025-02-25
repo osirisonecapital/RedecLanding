@@ -150,13 +150,14 @@ export default function ServicesPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1000&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1521249730512-fddd11477549?auto=format&fit=crop&q=80&w=1000"
                 alt="Power Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
+                className="group-hover:scale-105 transition-transform duration-500"
               />
             </motion.div>
           </div>
@@ -172,13 +173,14 @@ export default function ServicesPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=1000&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1518291344630-4857135fb581?auto=format&fit=crop&q=80&w=1000"
                 alt="Installation Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
+                className="group-hover:scale-105 transition-transform duration-500"
               />
             </motion.div>
             
@@ -291,13 +293,14 @@ export default function ServicesPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
+              className="relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=1000&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1000"
                 alt="Outfitting Engineering"
                 fill
                 style={{ objectFit: 'cover' }}
+                className="group-hover:scale-105 transition-transform duration-500"
               />
             </motion.div>
           </div>

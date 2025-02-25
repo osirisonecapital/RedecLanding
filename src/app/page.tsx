@@ -28,7 +28,7 @@ export default function Home() {
               className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1000"
                 alt="REDEC Team"
                 fill
                 className="object-cover"
@@ -128,7 +128,7 @@ export default function Home() {
                   Dredging
                 </div>
                 <Image 
-                  src="https://images.unsplash.com/photo-1574871935918-4161576773ea?q=80&w=1000&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1518486804561-5842ee790882?auto=format&fit=crop&q=80&w=1000"
                   alt="Dredging Project" 
                   fill
                   className="object-cover"
@@ -162,7 +162,7 @@ export default function Home() {
                   Offshore
                 </div>
                 <Image 
-                  src="https://images.unsplash.com/photo-1525179024081-d462bc0bd9ea?q=80&w=1000&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1520645521318-f2b67ce6de4b?auto=format&fit=crop&q=80&w=1000"
                   alt="Offshore Project" 
                   fill
                   className="object-cover"
@@ -196,7 +196,7 @@ export default function Home() {
                   Yachts
                 </div>
                 <Image 
-                  src="https://images.unsplash.com/photo-1540946485063-a40da27545f8?q=80&w=1000&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                   alt="Yacht Project" 
                   fill
                   className="object-cover"
@@ -230,7 +230,7 @@ export default function Home() {
                   Cranes
                 </div>
                 <Image 
-                  src="https://images.unsplash.com/photo-1599076449287-aa0052d60be6?q=80&w=1000&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&q=80&w=1000"
                   alt="Crane Project" 
                   fill
                   className="object-cover"
