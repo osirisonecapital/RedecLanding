@@ -10,15 +10,15 @@ const Header = () => {
 
   return (
     <header className="fixed w-full bg-white/90 backdrop-blur-sm z-50 shadow-sm">
-      <div className="container-custom flex items-center justify-between py-4">
+      <div className="container-custom flex items-center justify-between py-2">
         {/* Logo */}
-        <Link href="/" className="flex items-center">
-          <div className="relative h-12 w-56">
+        <Link href="/" className="flex items-center mr-8">
+          <div className="relative h-20 w-72">
             <Image 
               src="/images/LogoRedec.png" 
               alt="REDEC Logo" 
               fill
-              style={{ objectFit: 'contain' }}
+              style={{ objectFit: 'contain', objectPosition: 'left' }}
               priority
               unoptimized
             />
@@ -26,23 +26,23 @@ const Header = () => {
         </Link>
 
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex items-center space-x-8">
-          <Link href="/" className="text-gray-800 hover:text-redec-blue font-medium transition-colors">
+        <nav className="hidden md:flex items-center space-x-6 flex-1 justify-end">
+          <Link href="/" className="text-gray-800 hover:text-redec-blue font-medium transition-colors text-sm">
             Home
           </Link>
-          <Link href="/about" className="text-gray-800 hover:text-redec-blue font-medium transition-colors">
+          <Link href="/about" className="text-gray-800 hover:text-redec-blue font-medium transition-colors text-sm">
             About Us
           </Link>
-          <Link href="/services" className="text-gray-800 hover:text-redec-blue font-medium transition-colors">
+          <Link href="/services" className="text-gray-800 hover:text-redec-blue font-medium transition-colors text-sm">
             Services
           </Link>
-          <Link href="/portfolio" className="text-gray-800 hover:text-redec-blue font-medium transition-colors">
+          <Link href="/portfolio" className="text-gray-800 hover:text-redec-blue font-medium transition-colors text-sm">
             Portfolio
           </Link>
-          <Link href="/markets" className="text-gray-800 hover:text-redec-blue font-medium transition-colors">
+          <Link href="/markets" className="text-gray-800 hover:text-redec-blue font-medium transition-colors text-sm">
             Markets
           </Link>
-          <Link href="/contact" className="btn-primary">
+          <Link href="/contact" className="btn-primary text-sm py-2 px-4 ml-2">
             Contact Us
           </Link>
         </nav>
