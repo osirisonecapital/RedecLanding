@@ -19,14 +19,14 @@ const projects: Project[] = [
     title: 'Scheldt River',
     category: 'dredging',
     description: "Complete electrical engineering for DEME's dual-fuel trailing suction hopper dredger.",
-    imageSrc: 'https://images.unsplash.com/photo-1518486804561-5842ee790882?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'amazon-vessel',
     title: 'Amazon J-lay Vessel',
     category: 'offshore',
     description: 'Electrical systems design for advanced pipelaying vessel with dynamic positioning capabilities.',
-    imageSrc: 'https://images.unsplash.com/photo-1520645521318-f2b67ce6de4b?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'yacht-kvda714',
@@ -40,21 +40,21 @@ const projects: Project[] = [
     title: 'Siemens Ship-to-Shore',
     category: 'cranes',
     description: 'High-capacity ship-to-shore crane with advanced electrical control systems.',
-    imageSrc: 'https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'minerva-deme',
     title: 'Minerva DEME',
     category: 'dredging',
     description: 'Trailing suction hopper dredger featuring innovative electrical power management.',
-    imageSrc: 'https://images.unsplash.com/photo-1521651201144-634f700b36ef?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'yacht-a8001',
     title: 'Yacht A8001',
     category: 'yachts',
     description: '100-meter superyacht with comprehensive electrical and control systems.',
-    imageSrc: 'https://images.unsplash.com/photo-1566288623394-377af472d81b?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
 ];
 

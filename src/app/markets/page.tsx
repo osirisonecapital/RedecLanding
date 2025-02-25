@@ -156,9 +156,11 @@ export default function MarketsPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1518486804561-5842ee790882?auto=format&fit=crop&q=80&w=1000"
+                src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Dredging Vessel"
                 fill
+                priority
+                unoptimized
                 style={{ objectFit: 'cover' }}
                 className="group-hover:scale-105 transition-transform duration-500"
               />
@@ -185,9 +187,11 @@ export default function MarketsPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1520645521318-f2b67ce6de4b?auto=format&fit=crop&q=80&w=1000"
+                src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Offshore Vessel"
                 fill
+                priority
+                unoptimized
                 style={{ objectFit: 'cover' }}
                 className="group-hover:scale-105 transition-transform duration-500"
               />
@@ -316,6 +320,8 @@ export default function MarketsPage() {
                 src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Luxury Yacht"
                 fill
+                priority
+                unoptimized
                 style={{ objectFit: 'cover' }}
                 className="group-hover:scale-105 transition-transform duration-500"
               />
@@ -342,9 +348,11 @@ export default function MarketsPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&q=80&w=1000"
+                src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Maritime Crane"
                 fill
+                priority
+                unoptimized
                 style={{ objectFit: 'cover' }}
                 className="group-hover:scale-105 transition-transform duration-500"
               />

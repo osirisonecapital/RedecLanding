@@ -128,9 +128,11 @@ export default function Home() {
                   Dredging
                 </div>
                 <Image 
-                  src="https://images.unsplash.com/photo-1518486804561-5842ee790882?auto=format&fit=crop&q=80&w=1000"
+                  src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                   alt="Dredging Project" 
                   fill
+                  priority
+                  unoptimized
                   className="object-cover"
                 />
               </div>
@@ -162,9 +164,11 @@ export default function Home() {
                   Offshore
                 </div>
                 <Image 
-                  src="https://images.unsplash.com/photo-1520645521318-f2b67ce6de4b?auto=format&fit=crop&q=80&w=1000"
+                  src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                   alt="Offshore Project" 
                   fill
+                  priority
+                  unoptimized
                   className="object-cover"
                 />
               </div>
@@ -199,6 +203,8 @@ export default function Home() {
                   src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                   alt="Yacht Project" 
                   fill
+                  priority
+                  unoptimized
                   className="object-cover"
                 />
               </div>
@@ -230,9 +236,11 @@ export default function Home() {
                   Cranes
                 </div>
                 <Image 
-                  src="https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&q=80&w=1000"
+                  src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                   alt="Crane Project" 
                   fill
+                  priority
+                  unoptimized
                   className="object-cover"
                 />
               </div>

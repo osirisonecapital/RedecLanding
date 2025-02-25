@@ -153,9 +153,11 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1521249730512-fddd11477549?auto=format&fit=crop&q=80&w=1000"
+                src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Power Engineering"
                 fill
+                priority
+                unoptimized
                 style={{ objectFit: 'cover' }}
                 className="group-hover:scale-105 transition-transform duration-500"
               />
@@ -176,9 +178,11 @@ export default function ServicesPage() {
               className="order-2 lg:order-1 relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1518291344630-4857135fb581?auto=format&fit=crop&q=80&w=1000"
+                src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Installation Engineering"
                 fill
+                priority
+                unoptimized
                 style={{ objectFit: 'cover' }}
                 className="group-hover:scale-105 transition-transform duration-500"
               />
@@ -296,9 +300,11 @@ export default function ServicesPage() {
               className="relative h-[500px] rounded-lg overflow-hidden shadow-xl group"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1000"
+                src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000"
                 alt="Outfitting Engineering"
                 fill
+                priority
+                unoptimized
                 style={{ objectFit: 'cover' }}
                 className="group-hover:scale-105 transition-transform duration-500"
               />

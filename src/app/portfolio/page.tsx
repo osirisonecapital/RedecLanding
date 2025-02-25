@@ -17,7 +17,7 @@ const projects = [
     client: 'DEME Group',
     description: "Complete electrical engineering for DEME's dual-fuel trailing suction hopper dredger. Includes power management systems, automation controls, and navigation integration.",
     year: 2017,
-    imageSrc: 'https://images.unsplash.com/photo-1518486804561-5842ee790882?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'minerva-deme',
@@ -26,7 +26,7 @@ const projects = [
     client: 'DEME Group',
     description: 'Trailing suction hopper dredger featuring innovative electrical power management systems with comprehensive monitoring and control interfaces.',
     year: 2019,
-    imageSrc: 'https://images.unsplash.com/photo-1521651201144-634f700b36ef?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'amazon-vessel',
@@ -35,7 +35,7 @@ const projects = [
     client: 'Allseas',
     description: 'Electrical systems design for advanced pipelaying vessel with dynamic positioning capabilities, featuring redundant power systems and precision controls.',
     year: 2018,
-    imageSrc: 'https://images.unsplash.com/photo-1520645521318-f2b67ce6de4b?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'yacht-kvda714',
@@ -53,7 +53,7 @@ const projects = [
     client: 'Siemens Marine',
     description: 'High-capacity ship-to-shore crane with advanced electrical control systems, featuring precision positioning and load management capabilities for container handling.',
     year: 2021,
-    imageSrc: 'https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'yacht-a8001',
@@ -62,7 +62,7 @@ const projects = [
     client: 'Oceanco',
     description: '100-meter superyacht with comprehensive electrical and control systems. Features include advanced automation, entertainment systems, and power management.',
     year: 2022,
-    imageSrc: 'https://images.unsplash.com/photo-1566288623394-377af472d81b?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'noordzee-dredger',
@@ -71,7 +71,7 @@ const projects = [
     client: 'Van Oord',
     description: 'Trailing suction hopper dredger with innovative electrical systems and automation controls designed for efficient operation in diverse conditions.',
     year: 2019,
-    imageSrc: 'https://images.unsplash.com/photo-1532571384-e341ae58bbf6?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'offshore-platform',
@@ -80,7 +80,7 @@ const projects = [
     client: 'Royal IHC',
     description: 'Electrical engineering for offshore platform with comprehensive power distribution, control systems, and monitoring capabilities.',
     year: 2020,
-    imageSrc: 'https://images.unsplash.com/photo-1518542442-4636df6327fe?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
   {
     id: 'huisman-crane',
@@ -89,7 +89,7 @@ const projects = [
     client: 'Huisman',
     description: 'Specialized offshore crane with advanced control systems, featuring wave compensation technology and precise load handling capabilities.',
     year: 2021,
-    imageSrc: 'https://images.unsplash.com/photo-1509721434272-b79147e0e708?auto=format&fit=crop&q=80&w=1000',
+    imageSrc: 'https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&q=80&w=1000',
   },
 ];
 
