@@ -28,7 +28,7 @@ export default function Home() {
               className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1000"
+                src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?auto=format&fit=crop&q=80&w=1000"
                 alt="REDEC Team"
                 fill
                 className="object-cover"
